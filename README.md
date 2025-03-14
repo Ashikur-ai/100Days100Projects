@@ -19,7 +19,7 @@ As a web developer, mastering the fundamentals is crucial. This challenge is des
 ## 📁 Project List
 | #  | Project Name  | Live Demo | Source Code |
 |----|-------------|-----------|-------------|
-| 1  | Coming Soon | 🔗 [Live](#) | 📜 [Code](#) |
+| 1  | Coming Soon | 🔗 [Live](https://dayoneproject0ne.netlify.app/) | 📜 [Code](#) |
 | 2  | Coming Soon | 🔗 [Live](#) | 📜 [Code](#) |
 | ...| ...         | ...       | ...         |
 
