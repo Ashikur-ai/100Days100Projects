@@ -19,8 +19,9 @@ As a web developer, mastering the fundamentals is crucial. This challenge is des
 ## 📁 Project List
 | #  | Project Name  | Live Demo | Source Code |
 |----|-------------|-----------|-------------|
-| 1  | Coming Soon | 🔗 [Live](https://dayoneproject0ne.netlify.app/) | 📜 [Code](#) |
+| 1  | UnleashingThePowerOfVideo | 🔗 [Live](https://dayoneproject0ne.netlify.app/) | 📜 [Code](https://github.com/Ashikur-ai/100Days100Projects/tree/main/%231UnleashingThePowerOfVideo) |
 | 2  | Coming Soon | 🔗 [Live](#) | 📜 [Code](#) |
+| 3  | Comming Soon| [Live](#) | [Code](#)
 | ...| ...         | ...       | ...         |
 
 ## 🚀 How to Use This Repository?
