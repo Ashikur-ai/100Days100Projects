@@ -21,7 +21,7 @@ As a web developer, mastering the fundamentals is crucial. This challenge is des
 |----|-------------|-----------|-------------|
 | 1  | UnleashingThePowerOfVideo | 🔗 [Live](https://dayoneproject0ne.netlify.app/) | 📜 [Code](https://github.com/Ashikur-ai/100Days100Projects/tree/main/%231UnleashingThePowerOfVideo) |
 | 2  | Dynamic Loading Animation | 🔗 [Live](https://loading-animation-day02.netlify.app/) | 📜 [Code](https://github.com/Ashikur-ai/100Days100Projects/tree/main/%232DynamicLoadingAnimation) |
-| 3  | Comming Soon| [Live](#) | [Code](#)
+| 3  | Custom Scrollbar | [Live](https://customscrollbarday3.netlify.app/) | [Code](https://github.com/Ashikur-ai/100Days100Projects/tree/main/%233CustomScrollbars)
 | ...| ...         | ...       | ...         |
 
 ## 🚀 How to Use This Repository?
